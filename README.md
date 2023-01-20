@@ -5,7 +5,6 @@ I have created a free graphical code to do this task, called `MUTE_SEGY_CODE`. M
 
 After defining the initial parts of the code (explained in the code), the first step is to define the upper and lower layers of the favorite area of data. As you see in the figure, the layers should be selected from left to right, and the layer is chosen by double clicking the mouse on the right part of the figure.
 
-<img src="OBS_1_PICKING.png" width="800" height="600">
 
 
 
