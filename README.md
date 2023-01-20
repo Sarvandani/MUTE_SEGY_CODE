@@ -12,6 +12,7 @@ After defining the initial parts of the code (explained in the code), the first 
 
 The code starts interpolating the selected region as follows:
 
+<img src="OBS_1_KM_SEC.png" width="800" height="600">
 
 
 
