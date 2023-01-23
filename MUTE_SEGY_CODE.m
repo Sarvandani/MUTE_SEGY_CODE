@@ -1,6 +1,7 @@
 clear all
 clc
 %% Author: Sarvandani
+%% I would like to acknowledge the authors and team of  several used functions especially SeisLab, POLYDEMO and Wail A. Mousa & Abdullatif A. Al-Shuhail.  
 %% important thing is to check seismic.headers and select X.
 %% this X is used to get offset's line number or column number in the data set. You
 %% can check it by header(:,:) = seismic.headers.
