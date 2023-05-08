@@ -1,4 +1,4 @@
-## Muting seismic files before modeling`
+## Muting seismic files before modeling or before FWI
 We may need to muffle some parts of the data set before modeling seismic data. This work is vital in full wave inversion (FWI).
 
 I have created a free graphical code to do this task, called `MUTE_SEGY_CODE`. Muting the data is applied to one Segy file in the folder called `synthetic_data1.segy`.
