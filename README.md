@@ -28,6 +28,7 @@ and at the end, the selected region is as follows:
 The muted Segy file can be found in the folder MUTED_SEGY_FILES.
 
 `DISCLAIMER`:  I don't warrant this code in any way whatsoever. This code is provided "as-is" to be used at your own risk.
+
 This work was done as part of my PhD, I would be happy if you could cite my PhD thesis:
 
 https://theses.hal.science/tel-04020124/
